@@ -1,4 +1,16 @@
+# Arquivos de configuração sensíveis
 .env
-References.csv
+
+# CSV de entrada (não precisa versionar)
+Referencias.csv
+
+# Diretório de dependências
 node_modules/
+
+# Arquivos de lock do npm/yarn/pnpm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Outros arquivos de lock genéricos (fallback)
 *lock

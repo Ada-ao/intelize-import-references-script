@@ -1,0 +1,19 @@
+{
+  "name": "intelize-import-references-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node --env-file=.env index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "inport-references-script"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "papaparse": "^5.5.3"
+  }
+}
