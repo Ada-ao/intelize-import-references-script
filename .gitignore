@@ -1,0 +1,4 @@
+.env
+References.csv
+node_modules/
+*lock
